@@ -1,0 +1,3 @@
+# bash-notes
+
+Practicando bash
